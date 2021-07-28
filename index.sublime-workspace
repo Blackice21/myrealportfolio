@@ -3,26 +3,35 @@
 	{
 		"selected_items":
 		[
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/C/Users/17085/OneDrive/Documents/sublime/test.html",
 			"settings":
 			{
-				"buffer_size": 7085,
+				"buffer_size": 403,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "assets/scripts/app.js",
+			"file": "/C/Users/17085/OneDrive/Documents/sublime/testing.css",
 			"settings":
 			{
-				"buffer_size": 1696,
+				"buffer_size": 167,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows",
+				"name": ".card-container{"
 			}
 		}
 	],
@@ -58,6 +67,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/17085/Downloads/The-Profitable-Programmer-Portfolio/final/assets/scripts/app.js",
+		"/C/Users/17085/Downloads/The-Profitable-Programmer-Portfolio/final/index.html"
 	],
 	"find":
 	{
@@ -97,27 +108,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/17085/OneDrive/Documents/sublime/test.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7085,
+						"buffer_size": 403,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1752,
-								1752
+								376,
+								376
 							]
 						],
 						"settings":
 						{
+							"auto_name": "",
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 409.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -125,28 +137,28 @@
 				},
 				{
 					"buffer": 1,
-					"file": "assets/scripts/app.js",
+					"file": "/C/Users/17085/OneDrive/Documents/sublime/testing.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1696,
+						"buffer_size": 167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1011,
-								1011
+								165,
+								165
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"auto_name": ".card-container{",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 901.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
